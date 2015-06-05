@@ -1,0 +1,61 @@
+body{
+    background: #fff url("images/body.gif") repeat-x 0 0;
+}
+.nav_bar{
+    height: 30px;
+    width: 300px;
+}
+
+#container{
+	width:1000px;
+	margin:auto auto;
+}
+
+#header {
+    font-size: 50px;
+    font-family: "仿宋小标宋";
+    text-align: center;
+    background: url("images/pic.jpg") no-repeat;
+	height: 120px;
+	width:1000px;
+    padding-top: 30px;
+}
+
+#main{
+	height:360px;
+    width:1000px;
+	margin-top:10px;
+}
+
+#left {
+	height: 300px;
+    width:400px;
+    padding:5px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	float:left;
+}
+
+
+#right{
+    height:300px;
+	width:400px;
+
+    padding:20px;
+    font-family: "微软雅黑";
+    font-size: 20px;
+	float:right;
+}
+
+#footer {
+	height: 40px;
+	width:980px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	text-align: center;
+    padding-top: 2px;
+}
+
+li:hover{
+    color: red;
+}

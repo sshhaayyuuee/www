@@ -1,1 +1,62 @@
-p {background-color: gray;}
+body{
+    background: #fff url("images/body.gif") repeat-x 0 0;
+}
+
+.nav_bar{
+    height: 30px;
+    width: 300px;
+}
+
+#container{
+	width:1000px;
+	margin:auto auto;
+}
+
+#header {
+    font-size: 40px;
+    font-family: "·ÂËÎÐ¡±êËÎ";
+    text-align: center;
+    //background: url("images/pic.jpg") no-repeat;
+	height: 40px;
+	width:1000px;
+}
+
+#main{
+	height:600px;
+    width:1000px;
+	margin-top:5px;
+}
+
+#left {
+	height: 500px;
+    width:400px;
+    padding:10px;
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 20px;
+	float:left;
+}
+
+
+#right{
+    height:500px;
+	width:400px;
+    padding-top:78px;
+    font-family: "Î¢ÈíÑÅºÚ";
+    font-size: 20px;
+	float:right;
+	
+}
+
+#footer {
+	height: 40px;
+	width:980px;
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size:15px;
+	text-align: center;
+    padding-top: 5px;
+
+}
+
+li:hover{
+    color: red;
+}
