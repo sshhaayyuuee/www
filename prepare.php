@@ -9,7 +9,7 @@
 	<link href="style.css" rel="stylesheet" type="text/css"/>
 	<link href="clndr.css" rel="stylesheet" type="text/css"/>
 
-	<script src="jquery-2.1.4.min.js"  type="text/javascript" ></script>
+	<script src="jquery-1.11.3.js"  type="text/javascript" ></script>
 	<script src="json2.js"></script>
 	<script src="underscore-min.js"></script>
 	<script src= "moment-2.8.3.js"></script>
